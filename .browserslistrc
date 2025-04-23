@@ -1,0 +1,6 @@
+defaults
+safari >13
+chrome >=97
+
+not IE 11
+not op_mini all
